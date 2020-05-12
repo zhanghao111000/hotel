@@ -12,4 +12,8 @@ public class Demo {
     public void test02(){
         System.out.println("组员李创建test02方法");
     }
+
+    public void test03(){
+        System.out.println("组员李创建test03方法");
+    }
 }
