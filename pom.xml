@@ -33,7 +33,7 @@
         <!-- jstl版本 -->
         <jstl.version>1.2</jstl.version>
         <!--junit测试包版本号-->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <!--日志包版本号-->
         <log4j-api.version>2.4.1</log4j-api.version>
         <log4j-core.version>2.3</log4j-core.version>
